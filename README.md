@@ -1,10 +1,8 @@
 # Hi there, I'm Austin - aka [upsurge0][github] 👋 
 
-## I'm an Computer Science Undergrad at VIT Bhopal
+## I'm a Product Engineer at Brine.fi
 
-- ⚡ I'm a MERN Stack Developer, but mainly frontend.
-- 🌱 I’m currently learning TS
-- 🥅 2022 Goals: Learn more about web3, next.js, blockchain
+- ⚡ Currently building market making solutions at brine.fi.
 
 ### Connect with me:
 
